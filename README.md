@@ -1,3 +1,5 @@
+Moved to [github.com/kinvolk/flatcar-terraform](https://github.com/kinvolk/flatcar-terraform)
+
 # flatcar-terraform-examples
 Example Terraform modules to provision Flatcar on two public clouds or on VMs on your laptop.
 
